@@ -6,3 +6,5 @@ Primera Prova
 * Pere
 * Juan
 * Pepe
+* Ese setch
+* Mi Pana
